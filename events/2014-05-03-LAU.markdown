@@ -1,0 +1,11 @@
+---
+title: Linux Audio Conference
+author: Bernardo Barros
+short: `map of broken clear glass` at ZKM Karlsruhe
+tags: Events
+---
+
+ZKM, Karlsruhe, May 3 2014
+
+[Linux Audio Conference 2014](http://lac.linuxaudio.org/2014/program)
+
